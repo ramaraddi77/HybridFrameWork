@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-20T08:33:25 IST" name="Default suite" finished-at="2023-03-20T08:34:25 IST" duration-ms="59986">
+    <groups>
+    </groups>
+    <test started-at="2023-03-20T08:33:25 IST" name="Default test" finished-at="2023-03-20T08:34:25 IST" duration-ms="59986">
+      <class name="com.automation.Test_scripts.Scenario_DWS_PriceComparison">
+        <test-method is-config="true" signature="reports()[pri:0, instance:com.automation.Test_scripts.Scenario_DWS_PriceComparison@223aa2f7]" started-at="2023-03-20T08:33:25 IST" name="reports" finished-at="2023-03-20T08:33:25 IST" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reports -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.automation.Test_scripts.Scenario_DWS_PriceComparison@223aa2f7]" started-at="2023-03-20T08:33:25 IST" name="openbrowser" finished-at="2023-03-20T08:33:30 IST" duration-ms="4413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method is-config="true" signature="loginDWS()[pri:0, instance:com.automation.Test_scripts.Scenario_DWS_PriceComparison@223aa2f7]" started-at="2023-03-20T08:33:30 IST" name="loginDWS" finished-at="2023-03-20T08:33:43 IST" duration-ms="12955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDWS -->
+        <test-method signature="ts()[pri:0, instance:com.automation.Test_scripts.Scenario_DWS_PriceComparison@223aa2f7]" started-at="2023-03-20T08:33:43 IST" name="ts" finished-at="2023-03-20T08:34:23 IST" duration-ms="40039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ts -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.automation.Test_scripts.Scenario_DWS_PriceComparison@223aa2f7]" started-at="2023-03-20T08:34:23 IST" name="logout" finished-at="2023-03-20T08:34:24 IST" duration-ms="897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:com.automation.Test_scripts.Scenario_DWS_PriceComparison@223aa2f7]" started-at="2023-03-20T08:34:24 IST" name="closeapp" finished-at="2023-03-20T08:34:24 IST" duration-ms="664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+        <test-method is-config="true" signature="flush()[pri:0, instance:com.automation.Test_scripts.Scenario_DWS_PriceComparison@223aa2f7]" started-at="2023-03-20T08:34:24 IST" name="flush" finished-at="2023-03-20T08:34:25 IST" duration-ms="587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- com.automation.Test_scripts.Scenario_DWS_PriceComparison -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

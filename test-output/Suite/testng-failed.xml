@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.automation.Test_scripts.Scenario_DWS_PriceComparison">
+        <methods>
+          <include name="logout"/>
+          <include name="loginDWS"/>
+          <include name="reports"/>
+          <include name="flush"/>
+          <include name="openbrowser"/>
+          <include name="ts"/>
+          <include name="closeapp"/>
+        </methods>
+      </class> <!-- com.automation.Test_scripts.Scenario_DWS_PriceComparison -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
